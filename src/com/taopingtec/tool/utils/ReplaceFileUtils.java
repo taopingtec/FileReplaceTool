@@ -9,6 +9,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
+import com.taopingtec.tool.Constants;
 import com.taopingtec.tool.ReplaceCfg;
 
 public class ReplaceFileUtils {
